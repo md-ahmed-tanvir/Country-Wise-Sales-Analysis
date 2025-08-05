@@ -1,0 +1,2 @@
+# Country-Wise-Sales-Analysis
+Welcome to my Power BI Projects repository! This is a collection of data visualization and business intelligence projects that showcase my skills in data modeling, DAX, interactive dashboards, and data storytelling using Microsoft Power BI.
